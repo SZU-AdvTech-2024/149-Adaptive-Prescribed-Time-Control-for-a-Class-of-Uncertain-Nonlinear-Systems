@@ -1,0 +1,8 @@
+@article{REPO149,
+    author = "Changchun Hua, Pengju Ning and Li, Kuo",
+    journal = "IEEE Transactions on Automatic Control",
+    number = "6159 - 6166",
+    title = "{ Adaptive Prescribed-Time Control for a Class of Uncertain Nonlinear Systems}",
+    volume = "67",
+    year = "2022"
+}
